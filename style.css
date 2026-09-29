@@ -12,3 +12,5 @@
 .phrase-particle:hover{background:rgba(255,255,255,.08)}
 .phrase-particle:focus-visible{outline:2px solid currentColor;outline-offset:2px}
 .remotePreview{margin-top:18px;padding:16px;border:1px solid #ffffff18;border-radius:16px;background:#ffffff08;text-align:left}.remoteCount{font-weight:800;margin:6px 0}.remoteText{min-height:42px;padding:12px;border-radius:12px;background:#0003;font-size:20px;line-height:1.7;word-break:break-word}.timerBox{padding:10px 14px;border-radius:14px;background:#ffffff0b;margin:10px 0;font-size:24px}.timerBox.urgent{background:#5a1d2b}.phrase-item{display:inline-flex;align-items:center;gap:2px;margin:2px 0}.phrase-particle{border:1px solid #ffffff20;background:#ffffff12;color:#fff;border-radius:8px;padding:3px 7px;cursor:pointer}.particle.active{background:#6b4bbd}
+
+.particle-label{flex:0 0 100%;font-size:12px;opacity:.65;padding:2px 0}.particles{flex-wrap:wrap}.particle{min-height:40px}
